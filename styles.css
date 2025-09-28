@@ -347,7 +347,7 @@ nav {
     left: -10%;
     width: 120%;
     height: 120%;
-    background: url('images/safari.jpg') center/cover;
+    background: url('safari.jpg') center/cover;
     background-attachment: fixed;
     transform: translateZ(0);
     will-change: transform;
